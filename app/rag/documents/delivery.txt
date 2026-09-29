@@ -1,0 +1,9 @@
+Delivery Policy
+
+Estimated delivery times are estimates and can change because of restaurant
+preparation time, traffic, weather, and delivery availability.
+
+The current status and estimated delivery time for a specific order must be
+retrieved from the operational order tool rather than invented by the AI agent.
+
+Customers can contact support if an order is significantly delayed.

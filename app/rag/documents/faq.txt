@@ -1,0 +1,7 @@
+Restaurant FAQ
+
+Customers can ask support about their own orders, restaurant policies, delivery,
+payments, refunds, and technical problems.
+
+For order-specific information, the support agent must use the operational order
+tools. The knowledge base is not an authoritative source for current order status.

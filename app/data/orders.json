@@ -1,0 +1,38 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "customer_id": "CUS-001",
+    "restaurant": "Food Palace",
+    "items": ["Paneer Pizza", "Coke"],
+    "total": 450.0,
+    "status": "Preparing",
+    "estimated_delivery": "35 minutes"
+  },
+  {
+    "order_id": "ORD-1002",
+    "customer_id": "CUS-001",
+    "restaurant": "Spice Hub",
+    "items": ["Veg Biryani", "Paneer Tikka"],
+    "total": 520.0,
+    "status": "Delivered",
+    "estimated_delivery": "Delivered"
+  },
+  {
+    "order_id": "ORD-1005",
+    "customer_id": "CUS-002",
+    "restaurant": "Spice Hub",
+    "items": ["Veg Biryani", "Paneer Tikka"],
+    "total": 520.0,
+    "status": "Out for Delivery",
+    "estimated_delivery": "15 minutes"
+  },
+  {
+    "order_id": "ORD-1006",
+    "customer_id": "CUS-003",
+    "restaurant": "Green Bowl",
+    "items": ["Veg Thali"],
+    "total": 280.0,
+    "status": "Confirmed",
+    "estimated_delivery": "45 minutes"
+  }
+]

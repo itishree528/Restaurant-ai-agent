@@ -1,0 +1,10 @@
+Refund Policy
+
+If a payment was deducted but an order was not successfully created, the payment
+status should be verified before a refund is confirmed.
+
+Customers should contact support when money was deducted and the order failed.
+
+The support team can investigate the payment and order records. The AI agent must
+not promise a refund unless the applicable policy or an authorized operational
+system confirms it.
